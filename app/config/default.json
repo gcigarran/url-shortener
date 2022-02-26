@@ -1,0 +1,15 @@
+{
+    "baseUrl": "http://localhost:5000",
+    "port": 5000,
+    "codeLength": 6,
+    "mongo": {
+        "uri" : "your_mongo_uri"
+    },
+    "postgres": {
+        "host": "your_postgres_host",
+        "database": "your_postgres_database",
+        "user": "your_postgres_username",
+        "password": "your_postgres_password"
+    }
+
+}
