@@ -7,4 +7,4 @@ Then:
 
 **npm start**
 
-Use your own MongoDB and Postgres databases, or feel free to use the ones you like.
+Use your own MongoDB and Postgres database credentials, or feel free to use the ones you like.
